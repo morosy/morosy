@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shunsuke Morozumi (morosy)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&width=435&lines=Welcome+to+my+GitHub!;Software+Engineer;Passionate+about+Web%2C+ML%2C+and+OpenGL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&width=435&lines=Welcome+to+my+GitHub!;My+name+is+mosory;" alt="Typing SVG" />
 </p>
 
 ---
